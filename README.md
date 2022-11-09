@@ -6,4 +6,7 @@ These links will let you explore other website by clicking on it,also it has a s
 contact.html further contains the basic links and information which is presented in the footer of the website .
 Also it has a important script tag of google form or jQuery's and Bootstrap's Javascript plugins which is necessary for the slider in website.
 index.html is the central and main file of website as it has various tags,functions,classes and embedded links in it.
-It has Latest compiled and minified CSS and some optional themes and basic tags in it.Also Wrapper for slides 
+It has Latest compiled and minified CSS and some optional themes and basic tags in it.Also Wrapper for slides and controls which are accessible with Bootstrap are all present in it.
+service.html is also used for storing several information for links and forms in website.
+Through which we can explore or go to multiple pages of it.
+Rest are only images and some css work in it which have some identity and properties of every bar and link in it.
